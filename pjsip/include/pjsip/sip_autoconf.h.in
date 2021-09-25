@@ -35,5 +35,7 @@
 //#undef PJSIP_HAS_TLS_TRANSPORT
 //#endif
 
+#undef PJSIP_ACCEPT_TLS_WILDCARD_CERTIFICATE
+
 #endif	/* __PJSIP_SIP_AUTOCONF_H__ */
 
